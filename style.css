@@ -1,7 +1,3 @@
-/*  a) Green = #0b4d14; 
-     b) Black = #000;
-     c) Gray = #c6bfbf */
-
 * {
   margin: 0px;
   padding: 0px;
@@ -13,14 +9,12 @@
   height: 100vh;
   width: 100vw;
   line-height: 1.4rem;
-  /* position: relative; */
 }
 header {
   background-color: #000;
   color: white;
   height: 5%;
   width: 100%;
-  /* position: fixed; */
 }
 
 .header-list {
@@ -41,7 +35,6 @@ header {
   height: 15%;
   padding-left: 10%;
   background-color: #c6bfbf;
-  /* padding-top: 10%; */
 }
 
 .content {
